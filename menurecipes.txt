@@ -1,0 +1,5 @@
+Recipename,Ingredient[name,type,weight]
+eggtomato,egg,MEAT,50,tomato,VEGETABLE,500
+mapotoufu,beef,MEAT,200,toufu,VEGETABLE,1000
+eggsausage,egg,MEAT,50,sausage,MEAT,100,mushroom,VEGETABLE,100
+cococola,coco,DRINK,250,ice,DRINK,250

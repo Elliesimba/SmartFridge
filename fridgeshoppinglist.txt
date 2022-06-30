@@ -1,0 +1,10 @@
+foodname,foodtype,weight（Drink:ml  Other:g）,expirationyear,expirationmonth,expirationday
+milk,DRINK,1000,2022,5,19
+egg,MEAT,20,2022,6,30
+tomato,VEGETABLE,1000,2022,6,30
+beef,MEAT,1000,2022,7,3
+sausage,MEAT,1200,2022,5,30
+toufu,VEGETABLE,100,2022,6,30
+toufu,VEGETABLE,900,2022,7,1
+coco,DRINK,500,2022,12,1
+ice,DRINK,1000,2022,7,5
